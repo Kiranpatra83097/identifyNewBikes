@@ -1,3 +1,8 @@
-* linguist-vendored
-*.selenium linguist-vendored=false
-*.automation linguist-vendored=false
+* linguist-detectable
+*.selenium linguist-detectable=true
+*.automation linguist-detectable=true
+*.java linguist-detectable=true
+*.Testng-framework linguist-detectable=true
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.javascript linguist-detectable=false
