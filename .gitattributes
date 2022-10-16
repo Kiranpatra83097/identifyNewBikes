@@ -1,0 +1,3 @@
+* linguist-vendored
+*.selenium linguist-vendored=false
+*.automation linguist-vendored=false
